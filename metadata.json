@@ -1,0 +1,7 @@
+{
+  "name": "Q-Clad Design Studio",
+  "description": "A high-end, interactive design agency landing page inspired by QClay, featuring advanced horizontal scrolling, fast-paced transitions, and sophisticated typography.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
